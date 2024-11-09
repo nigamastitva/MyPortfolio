@@ -98,8 +98,8 @@ export const PROJECTS = [
       "Developed a responsive personal portfolio website using ReactJS, TailwindCSS, and Framer Motion to showcase work experience, projects, skills, and contact information with interactive animations.",
     ],
     technologies: ["ReactJS", "TailwindCSS", "FramerMotion"],
-    code: "",
-    link: "",
+    code: "https://github.com/nigamastitva/MyPortfolio",
+    link: "https://my-portfolio-nine-murex-63.vercel.app/",
   },
 ];
 
